@@ -1,0 +1,12 @@
+
+This chapter is about `r params#something`.
+
+Let's talk about @fig-a.
+Is the reference correct?
+
+```{r}
+#| label: fig-a
+#| fig-cap: "A plot about cars"
+plot(cars)
+```
+

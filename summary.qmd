@@ -1,0 +1,5 @@
+---
+title: "Summary"
+---
+
+What happens if we reference @fig-a here?

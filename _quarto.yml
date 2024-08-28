@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Messy Labels"
+  author: "Matt Pollock"
+  date: "8/28/2024"
+  chapters:
+    - index.qmd
+    - analysis1.qmd
+    - analysis2.qmd
+    - summary.qmd
+
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,12 @@
+---
+title: "Analysis 2"
+params:
+  something: "analysis 2"
+---
+
+```{r}
+options(knitr.duplicate.label = "allow")
+```
+
+```{r child='analysis-template.qmd'}
+```
